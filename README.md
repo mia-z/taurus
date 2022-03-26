@@ -1,1 +1,3 @@
-- [ ] https://github.com/mia-z/taurus/projects/1#card-79709251
+# Taurus 
+## Lightweight, cross-platform Spotify client written in Javascript and Rust, with Tauri for native frontend.
+
