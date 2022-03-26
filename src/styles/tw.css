@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500;600;700&family=Varela+Round&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Varela Round', sans-serif;
+}
